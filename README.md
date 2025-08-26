@@ -41,10 +41,10 @@ I’m a passionate software engineer who loves building modern, scalable, and ef
 ---
 
 ## 🌐 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)](https://facebook.com/yourpage)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/yourpage)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)](https://www.facebook.com/people/Devnest/61568374242196/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/_devnest_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/company/devnest-agency))  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)]([https://twitter.com/yourprofile](https://x.com/_Devnest_))  
 
 ---
 
