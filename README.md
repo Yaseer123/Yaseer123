@@ -1,7 +1,6 @@
-# 👋 Hello, I'm Yaseer Arafat Khan  
-
-### 🚀 Full-Stack Developer | Software Engineer  
-Node.js | React | Next.js | Prisma | DevOps | Django | 
+<p align="center">
+  <img src="https://i.imgur.com/jGJ0fhi.gif" alt="👋 Hello, I'm Yaseer Arafat Khan - Full-Stack Developer" width="100%" />
+</p>
 
 ---
 
