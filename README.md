@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/pMNMWJJ.jpeg" alt="👋 Hello, I'm Yaseer Arafat Khan - Full-Stack Developer" width="100%" />
+  <img src="./Untitled design.jpg" alt="👋 Hello, I'm Yaseer Arafat Khan - Full-Stack Developer" width="100%" />
 </p>
+
 
 ---
 
