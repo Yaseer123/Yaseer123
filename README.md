@@ -28,18 +28,6 @@ I’m a passionate software engineer who loves building modern, scalable, and ef
 
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaseer123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseer123&layout=compact&theme=radical)  
-
----
-
-## 📌 Featured Projects
-- 🔗 [Project 1](https://github.com/Yaseer123/project1) – Short description here  
-- 🔗 [Project 2](https://github.com/Yaseer123/project2) – Short description here  
-- 🔗 [Project 3](https://github.com/Yaseer123/project3) – Short description here  
-
 ---
 
 ## 🌐 Connect With Me
