@@ -8,7 +8,7 @@ Node.js | React | Next.js | Prisma | DevOps | Django |
 ## 🧑‍💻 About Me
 I’m a passionate software engineer who loves building modern, scalable, and efficient web applications. I specialize in **Next.js, React, Node.js, and Prisma**, with strong experience in backend + DevOps.  
 
-<img src=""D:\Downloads\Purple Luxury Bird Logo (500 x 500 px).png"" alt="Devnest Logo" width="30" style="vertical-align:middle;"/> Founder of **Devnest Corporation**  
+<img src="https://www.canva.com/design/DAGv26CULfs/Oi6W8A6fvX-H6Qp0_a8pxw/edit?utm_content=DAGv26CULfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Devnest Logo" width="30" style="vertical-align:middle;"/> Founder of **Devnest Corporation**  
 
 ---
 
