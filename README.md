@@ -8,12 +8,9 @@ Node.js | React | Next.js | Prisma | DevOps | Django |
 ## 🧑‍💻 About Me
 I’m a passionate software engineer who loves building modern, scalable, and efficient web applications. I specialize in **Next.js, React, Node.js, and Prisma**, with strong experience in backend + DevOps.  
 
-📍 Dhaka, Bangladesh  
-💼 Founder of **Devnest Corporation**  
-📝 Pronouns: he/him  
+<img src=""D:\Downloads\Purple Luxury Bird Logo (500 x 500 px).png"" alt="Devnest Logo" width="30" style="vertical-align:middle;"/> Founder of **Devnest Corporation**  
 
 ---
-
 
 ## 🛠 Tools of Trade  
 
@@ -25,17 +22,14 @@ I’m a passionate software engineer who loves building modern, scalable, and ef
 > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 > ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-
-
----
 ---
 
 ## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)](https://www.facebook.com/people/Devnest/61568374242196/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/_devnest_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/company/devnest-agency))  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)]([https://twitter.com/yourprofile](https://x.com/_Devnest_))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devnest-agency)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://x.com/_Devnest_)  
 
 ---
 
-⭐️ From [Yaseer Arafat Khan](https://github.com/Yaseer123)
+⭐️ From [Yaseer Arafat Khan](https://github.com/Yaseer123)  
